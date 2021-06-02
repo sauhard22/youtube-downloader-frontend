@@ -12,7 +12,6 @@ function App() {
       <h1>Enter the link you want to download</h1>
       <div className="int-fld">
       <InputField/>
-  
       </div>
     </div>
   );
