@@ -1,0 +1,16 @@
+.int {
+    width: 50%;
+    height: 50px;
+    padding-left: 2em;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 1px solid rgba(124, 124, 124, 0.658);
+}
+
+.btn{
+    height:50px;
+    margin-left: 40px;
+    border-radius: 5px;
+    width: 100px;
+}
